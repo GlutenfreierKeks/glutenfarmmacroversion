@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "filename": "GlutenFarmMacro_1.0.0.jar",
+  "download_url": "https://github.com/YourUsername/YourRepo/releases/download/v1.0.1/GlutenFarmMacro-1.0.1.jar",
+  "changelog": [
+    "✨ New Feature: SpawnerBooster Module",
+    "🐛 Bugfix: TEst ",
+    "⚡ Performance",
+    "⚙️ New Config System"
+  ]
+}
