@@ -1,11 +1,15 @@
 {
-  "version": "1.0.1",
-  "filename": "GlutenFarmMacro-1.0.1.jar",
-  "download_url": "https://github.com/GlutenfreierKeks/glutenfarmmacroversion/raw/main/GlutenFarmMacro-1.0.1.jar",
+  "version": "1.0.0",
+  "filename": "GlutenFarmMacro-1.0.0.jar",
+  "download_url": "https://github.com/GlutenfreierKeks/glutenfarmmacroversion/raw/main/GlutenFarmMacro-1.0.0.jar",
   "changelog": [
     "New Feature: SpawnerBooster Module",
-    "Bugfix: TEst ",
-    "Performance",
+    "New Feature: CropBreaker Module",
+    "New Feature: SpawnerBreaker Module",
+    "New Feature: FastPlacer Module (Legit)",
+    "New Feature: Auto Update System",
+    "New Feature: SpawnerBuy placing faster & wait until Stock reset",
+    "Removed: ChatFilter Module",
     "New Config System"
   ]
 }
